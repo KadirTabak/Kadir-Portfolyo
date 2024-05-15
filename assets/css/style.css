@@ -435,7 +435,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #00cc8f;
+  border-left: 2px solid #262b29;
   position: relative;
 }
 
@@ -511,7 +511,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #00cc8f;
+  color: #494949;
 }
 
 .portfolio #portfolio-flters li:last-child {
